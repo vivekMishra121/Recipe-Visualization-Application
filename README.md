@@ -1,4 +1,6 @@
 # Recipe-Visualization-Application
+![image](https://github.com/user-attachments/assets/2261fb8d-03a8-48e5-8b40-407e3d1add06)
+
 ## Overview
 This project aims to analyze a recipe dataset to derive valuable insights that can enhance user engagement and satisfaction on a recipe platform. By examining ingredient usage, recipe ratings, and nutritional content, we provide actionable recommendations for improving the platform's offerings.
 ## Table of Contents
